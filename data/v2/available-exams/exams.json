@@ -4,19 +4,11 @@
          "title":"AWS Certification Sample Exam",
          "description":"Free exam version, includes limited amount of sample questions. To try the functionality before buying any other paid exam version.",
          "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/archpro_tb.png",
-         "published":"2022-06-14",
+         "published":"2022-06-16",
          "package":"io.github.devsteamit.sample",
          "flavor":"sample"
-      },
-      {
-         "title":"AWS Cloud Practitioner Certification Exam",
-         "description":"250 questions to prepare for Cloud Practitioiner Certification",
-         "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/pract_tb.png",
-         "published":"2022-06-14",
-         "package":"io.github.devsteamit.pract",
-         "flavor":"practitioner"
       }
    ],
-   "published":"2022-06-14",
+   "published":"2022-06-16",
    "hash":"123456"
 }
