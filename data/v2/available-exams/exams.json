@@ -23,6 +23,14 @@
          "published":"2024-09-15",
          "package":"io.github.devsteamit.now",
          "flavor":"now"
+      },
+      {
+         "title":"AWS Certification Network Exam",
+         "description":"2024 NW Specialty PRO",
+         "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/archpro_tb.png",
+         "published":"2024-09-15",
+         "package":"io.github.devsteamit.now2",
+         "flavor":"now2"
       }
    ],
    "published":"2022-06-16",
