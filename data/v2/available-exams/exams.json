@@ -10,18 +10,18 @@
       },
       {
          "title":"AWS Certification DevOps Pro DOP-C02 Exam",
-         "description":"2024 DEV OPS PRO",
+         "description":"2024 DevOps PRO",
          "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/archpro_tb.png",
          "published":"2024-09-15",
          "package":"io.github.devsteamit.dopc02",
          "flavor":"dopc02"
       },
       {
-         "title":"AWS Certification Architect Pro SAP-C02 Exam",
-         "description":"2024 DEV OPS PRO",
+         "title":"SAP-C02 Exam",
+         "description":"AWS Certification Professional Architect 2024",
          "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/archpro_tb.png",
          "published":"2024-09-15",
-         "package":"io.github.devsteamit.sap",
+         "package":"io.github.devsteamit.psap",
          "flavor":"sap"
       },
       {
