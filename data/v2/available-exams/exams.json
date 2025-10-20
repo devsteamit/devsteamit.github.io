@@ -1,46 +1,22 @@
 {
    "exams":[
       {
-         "title":"AWS Certification Sample Exam",
-         "description":"Free exam version, includes limited amount of sample questions. To try the functionality before buying any other paid exam version.",
-         "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/archpro_tb.png",
-         "published":"2022-06-16",
-         "package":"io.github.devsteamit.sample",
-         "flavor":"sample"
+         "title":"AIF-C01 Exam",
+         "description":"AWS Certified AI Practitioner 2025",
+         "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/img/aifc01.png",
+         "published":"2025-10-20",
+         "package":"io.github.devsteamit.aifc01",
+         "flavor":"aifc01"
       },
       {
-         "title":"DOP-C02 Exam",
-         "description":"AWS Certification Professional DevOps 2024",
-         "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/archpro_tb.png",
-         "published":"2024-09-15",
-         "package":"io.github.devsteamit.dopc02",
-         "flavor":"dopc02"
-      },
-      {
-         "title":"SAP-C02 Exam",
-         "description":"AWS Certification Professional Architect 2024",
-         "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/archpro_tb.png",
-         "published":"2024-09-15",
-         "package":"io.github.devsteamit.psap",
-         "flavor":"sap"
-      },
-      {
-         "title":"AIF-C02 Exam",
-         "description":"AWS Certification AI Practitioner 2024",
-         "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/aifco2.png",
-         "published":"2024-11-01",
-         "package":"io.github.devsteamit.aifc02",
-         "flavor":"aifc02"
-      },
-      {
-         "title":"SCS-CO2 Exam",
-         "description":"AWS Certification Advanced Security Specialty 2024",
-         "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/scsc02.png",
-         "published":"2024-12-17",
-         "package":"io.github.devsteamit.scsc02",
-         "flavor":"scsc02"
+         "title":"CLF-CO2 Exam",
+         "description":"AWS Certified Cloud Practitioner 2025",
+         "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/img/clfc02.png",
+         "published":"2025-10-20",
+         "package":"io.github.devsteamit.clfc02",
+         "flavor":"clfc02"
       }
    ],
-   "published":"2022-06-16",
+   "published":"2025-10-20",
    "hash":"123456"
 }
