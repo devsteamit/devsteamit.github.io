@@ -2,7 +2,7 @@
    "exams":[
       {
          "title":"AIF-C01 Exam",
-         "description":"AWS Certified AI Practitioner 2025",
+         "description":"AWS Certified AI Practitioner",
          "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/img/aifc01.png",
          "published":"2025-10-20",
          "package":"io.github.devsteamit.aifc01",
@@ -10,7 +10,7 @@
       },
       {
          "title":"CLF-CO2 Exam",
-         "description":"AWS Certified Cloud Practitioner 2025",
+         "description":"AWS Certified Cloud Practitioner",
          "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/img/clfc02.png",
          "published":"2025-10-20",
          "package":"io.github.devsteamit.clfc02",
