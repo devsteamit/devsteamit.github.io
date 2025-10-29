@@ -188,7 +188,7 @@
                 // Add jacket-small.png as background image - optimized smaller version
                 imageWrapper.style.backgroundImage = 'url(./assets/jacket-small.png)';
                 imageWrapper.style.backgroundRepeat = 'no-repeat';
-                imageWrapper.style.backgroundSize = 'auto 60%'; // Smaller size - 60% of container height
+                imageWrapper.style.backgroundSize = 'auto 100%'; // Smaller size - 60% of container height
                 imageWrapper.style.backgroundPosition = 'right center'; // Position on the right side
 
                 console.log('Banner updated with jacket.png background');
