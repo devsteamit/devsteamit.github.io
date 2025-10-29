@@ -8,7 +8,7 @@
 	<base target="_blank">
 
 	<title class="pageTitle"></title>
-	<meta name="description" content="This is certification preparetion app. Write a short tagline for your app.">
+	<meta name="description"> <!--content=""-->
 
 	
 	
@@ -62,8 +62,6 @@
             
             
             
-            <li><a href="https://emilbaehr.com">Press Kit</a></li>
-            
         </ul>
     </nav>
 </header>
@@ -86,7 +84,7 @@
 
                 <img class="iphoneScreen hidden" src="" alt="">
 
-                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 <script>
     $(function() {
@@ -254,12 +252,12 @@
                             </clipPath>
                         </defs>
                     </svg>
-                    <img class="appIconLarge" src="./assets/brain_512.png">
-                    <h1 class="appName"><!--AIF-C01. AI Practitioner Foundational--></h1>
+                    <img class="appIconLarge">
+                    <h1 class="appName"><!----></h1>
                 </div>
                 <div class="appDescriptionContainer">
                     <p class="appDescription">
-<!--                        This is certification preparetion app. Write a short tagline for your app.-->
+<!--                        -->
                     </p>
                     <p class="appLevel">
 <!--                        -->
@@ -330,7 +328,7 @@
         </div>
         <div class="featureText">
             <h3>
-                Video Support
+                Text-to-Speech
             </h3>
             <p>
                 Preview app video on the iPhone device simply by placing your video files in the videos folder.
@@ -405,50 +403,14 @@
     
 
 </div>
-            <footer>
-	
-	<p class="footerText">Made by <a href="https://google.com">DevsTeamIT</a></p>
-	
-	<div class="footerIcons">
+            <div class="headerBackground">
+<footer>
+    <div class="headerBackground">
 
-		
-
-		
-
-		
-
-		
-
-		
-
-		
-
-		
-
-		
-			<a href="mailto:emil.baehr@gmail.com">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fas fa-envelope fa-stack-1x"></i>
-				</span>
-			</a>
-		
-
-	</div>
-	<div class="footerLinks">
-		
-			<a href="/changelog/" target="_self">What's New</a>
-		
-			<a href="/howto/" target="_self">How to</a>
-		
-			<a href="/privacypolicy/" target="_self">Privacy Policy</a>
-		
-		
-			<a href="https://emilbaehr.com">Press Kit</a>
-		
-	</div>
+    </div>
 </footer>
-            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+</div>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 
 
@@ -475,10 +437,10 @@ $(function() {
             }
 
             // Set large app icon using the iOS app ID if it is not set manually in _config.yml
-            var $appIconLarge = $(".appIconLarge");
-            if (!$appIconLarge.attr('src')) {
-                $($appIconLarge).attr("src", appInfo.artworkUrl512);
-            }
+<!--            var $appIconLarge = $(".appIconLarge");-->
+<!--            if (!$appIconLarge.attr('src')) {-->
+<!--                $($appIconLarge).attr("src", appInfo.artworkUrl512);-->
+<!--            }-->
 
             // Set header app icon using the iOS app ID if it is not set manually in _config.yml
             var $appIconHeader = $(".headerIcon");
