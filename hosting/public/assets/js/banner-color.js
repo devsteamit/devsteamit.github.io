@@ -113,10 +113,13 @@
 
         // Update app description - combine description and level
         let fullDescription = exam.description || '';
-        if (exam.level) {
-            fullDescription = exam.level === fullDescription ?
-                fullDescription :
-                `${exam.description} - ${exam.level} Level`;
+        let level - exam.level || '';
+
+        if (level){
+            const appLevel = document.querySelector('.appLevel');
+            if (appLevel) {
+                appLevel.textContent = level;
+            }
         }
 
         if (fullDescription) {
