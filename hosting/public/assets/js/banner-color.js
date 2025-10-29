@@ -216,6 +216,23 @@
             console.log('App Store button hidden');
         }
 
+        // Update icon colors to match exam color
+        if (exam.color) {
+            // Update iconTop elements (foreground icons)
+            const iconTops = document.querySelectorAll('.iconTop');
+            iconTops.forEach(icon => {
+                icon.style.color = exam.color;
+            });
+            
+            // Update socialIconTop elements
+            const socialIconTops = document.querySelectorAll('.socialIconTop');
+            socialIconTops.forEach(icon => {
+                icon.style.color = exam.color;
+            });
+            
+            console.log(`Updated icon colors to match exam color: ${exam.color}`);
+        }
+
         // Add level as CSS class for styling
         if (exam.level) {
             document.body.classList.remove('foundational', 'associate', 'professional');
