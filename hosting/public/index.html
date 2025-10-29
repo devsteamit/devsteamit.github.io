@@ -10,7 +10,7 @@
 	<title class="pageTitle"></title>
 	<meta name="description" content="This is certification preparetion app. Write a short tagline for your app.">
 
-	<link rel="shortcut icon" href="/assets/brain_512.png">
+	<link rel="shortcut icon" href="./assets/brain_512.png">
 
 	<!-- Smart App Banner -->
 	
@@ -243,7 +243,7 @@
                                     </clipPath>
                                 </defs>
                             </svg>
-                            <img class="appIconLarge" src="/assets/brain_512.png">
+                            <img class="appIconLarge" src="./assets/brain_512.png">
                         </div>
                         <div class="appNamePriceContainer">
                             <h1 class="appName">
@@ -457,7 +457,7 @@ $(function() {
             var appInfo = json.results[0];
 
             // Set favicon
-            $('link[rel="shortcut icon"]').attr("href", appInfo.artworkUrl512);
+<!--            $('link[rel="shortcut icon"]').attr("href", appInfo.artworkUrl512);-->
 
             // Set page title using the iOS app ID if it is not set manually in _config.yml
             var $pageTitle = $(".pageTitle");
