@@ -249,9 +249,6 @@
                             <h1 class="appName">
                                 AIF-C01. AI Practitioner Foundational
                             </h1>
-                            <h2 class="appPrice">
-                                subscription
-                            </h2>
                         </div>
                         <div class="appDescriptionContainer">
                             <p class ="appDescription">
@@ -487,12 +484,6 @@ $(function() {
             var $headerName = $(".headerName");
             if ($.trim($($headerName).text()).length == 0) {
                 $($headerName).html(appInfo.trackName);
-            }
-
-            // Set price using the iOS app ID if it is not set manually in _config.yml
-            var $appPrice = $(".appPrice");
-            if ($.trim($($appPrice).text()).length == 0) {
-                $($appPrice).html(appInfo.formattedPrice);
             }
 
             // Set App Store link using the iOS app ID if it is not set manually in _config.yml
