@@ -103,12 +103,6 @@
             if (appName) {
                 appName.textContent = cleanTitle;
             }
-
-            // Also update header name
-            const headerName = document.querySelector('.headerName');
-            if (headerName) {
-                headerName.textContent = "Your PATH to Fully Certified Golden Jacket";
-            }
         }
 
         // Update app description - combine description and level
