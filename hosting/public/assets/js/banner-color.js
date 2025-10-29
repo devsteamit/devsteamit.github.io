@@ -107,7 +107,7 @@
             // Also update header name
             const headerName = document.querySelector('.headerName');
             if (headerName) {
-                headerName.textContent = "Your PATH to Golden Jacket";
+                headerName.textContent = "Your PATH to Fully Certified Golden Jacket";
             }
         }
 
