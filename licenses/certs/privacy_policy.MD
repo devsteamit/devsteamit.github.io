@@ -7,13 +7,6 @@
 Welcome to Certification preparation application (the “App”).
 This Privacy Policy explains how we treat your data when you use the App. Your use of the App means you accept this Policy.
 
-## Please note:
-
-- All data (your usage data, progress) is stored locally on your device (unless otherwise stated).
-- You use the App at your own risk — the App is provided “as is” and we make no warranties beyond what we state.
-- The content (questions, answers, etc.) is copyrighted and may not be copied, extracted, shared or redistributed.
-- Access to the App is licensed for use on a single device subscription; sharing your account or device access is prohibited.
-
 App includes free content provided for learning without subscription in a limited trial mode. Applying subscription allows access to much wider content compared to free version. 
 
 At the same time main features, menus, reports of free version are almost the same as paid version, so using it users can judge and make decision to go for paid version.
