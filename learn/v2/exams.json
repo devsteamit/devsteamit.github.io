@@ -66,26 +66,53 @@
           "description": "Prepare and learn AWS certification many domains",
           "resources": [
             {
-              "name": "Udemy",
-              "url": "http://fsafasf.com",
-              "type": "online-course"
+              "type": "docs",
+              "list": [
+              ]
             },
             {
-              "name": "Article",
-              "url": "http://fsafasf.com",
-              "type": "text"
+              "type": "youtube",
+              "list": [
+                {
+                  "name": "Video content",
+                  "url": "https://www.youtube.com/watch?v=1E5zIJCLHfI",
+                  "type": "youtube"
+                }
+              ]
             },
             {
-              "name": "Video content",
-              "url": "https://fsafasf.com",
-              "type": "youtube"
+              "type": "articles",
+              "list": [
+                {
+                  "name": "Article",
+                  "url": "https://google.com"
+                }
+              ]
             },
             {
-              "name": "Certification app",
-              "url": "io.github.devsteamit.clfc02",
-              "type": "application"
+              "type": "online-course",
+              "list": [
+                {
+                  "name": "Udemy",
+                  "url": "http://fsafasf.com"
+                },
+                {
+                  "name": "Builders",
+                  "url": "http://fsafasf.com"
+                }
+              ]
+            },
+            {
+              "type": "application",
+              "list": [
+                {
+                  "name": "AWS Certified Cloud Practitioner",
+                  "url": "io.github.devsteamit.clfc02"
+                }
+              ]
             }
           ]
+        },
         }
       ]
     },
@@ -95,38 +122,7 @@
     },
     {
       "level": "Professional",
-      "exams": [
-        {
-          "title": "SAP-C02 Exam",
-          "description": "AWS Certified Solutions Architect",
-          "imageUrl": "https://devsteamit.github.io/data/v2/available-exams/img/sapc02.png",
-          "published": "2025-10-20",
-          "color": "#028296",
-          "description": "Prepare and learn AWS certification many domains",
-          "resources": [
-            {
-              "name": "Udemy",
-              "url": "http://fsafasf.com",
-              "type": "online-course"
-            },
-            {
-              "name": "Article",
-              "url": "http://fsafasf.com",
-              "type": "text"
-            },
-            {
-              "name": "Video content",
-              "url": "https://fsafasf.com",
-              "type": "youtube"
-            },
-            {
-              "name": "Certification app",
-              "url": "io.github.devsteamit.sapc02",
-              "type": "application"
-            }
-          ]
-        }
-      ]
+      "exams": []
     },
     {
       "level": "Specialty",
