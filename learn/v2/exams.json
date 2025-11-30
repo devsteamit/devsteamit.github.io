@@ -1,36 +1,104 @@
 {
-   "exams":[
-      {
-         "title":"AIF-C01 Exam",
-         "description":"AWS Certified AI Practitioner",
-         "level": "Foundational",
-         "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/img/aifc01.png",
-         "published":"2025-10-20",
-         "package":"io.github.devsteamit.aifc01",
-         "flavor":"aifc01",
-         "color":  "#384350"
-      },
-      {
-         "title":"CLF-CO2 Exam",
-         "description":"AWS Certified Cloud Practitioner",
-         "level": "Foundational",
-         "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/img/clfc02.png",
-         "published":"2025-10-20",
-         "package":"io.github.devsteamit.clfc02",
-         "flavor":"clfc02",
-         "color":  "#384350"
-      },
-      {
-         "title":"SAP-C02 Exam",
-         "description":"AWS Certified Solutions Architect",
-         "level": "Professional",
-         "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/img/sapc02.png",
-         "published":"2025-10-20",
-         "package":"io.github.devsteamit.sapc02",
-         "flavor":"sapc02",
-         "color":  "#028296"
-      }
-   ],
-   "published":"2025-10-20",
-   "hash":"123456"
+  "levels": [
+    {
+      "level": "Foundational",
+      "exams": [
+        {
+          "title": "AIF-C01 Exam",
+          "description": "AWS Certified AI Practitioner",
+          "imageUrl": "https://devsteamit.github.io/data/v2/available-exams/img/aifc01.png",
+          "published": "2025-10-20",
+          "color": "#384350",
+          "description": "Prepare and learn AWS certification many domains",
+          "resources": [
+            {
+              "name": "Udemy",
+              "url": "http://fsafasf.com",
+              "type": "online-course"
+            },
+            {
+              "name": "Article",
+              "url": "http://fsafasf.com",
+              "type": "text"
+            },
+            {
+              "name": "Video content",
+              "url": "https://fsafasf.com",
+              "type": "youtube"
+            },
+            {
+              "name": "Certification app",
+              "url": "io.github.devsteamit.aifc01",
+              "type": "application"
+            }
+          ]
+        },
+        {
+          "title": "CLF-CO2 Exam",
+          "description": "AWS Certified Cloud Practitioner",
+          "imageUrl": "https://devsteamit.github.io/data/v2/available-exams/img/clfc02.png",
+          "published": "2025-10-20",
+          "color": "#384350",
+          "description": "Prepare and learn AWS certification many domains",
+          "resources": [
+            {
+              "name": "Udemy",
+              "url": "http://fsafasf.com",
+              "type": "online-course"
+            },
+            {
+              "name": "Article",
+              "url": "http://fsafasf.com",
+              "type": "text"
+            },
+            {
+              "name": "Video content",
+              "url": "https://fsafasf.com",
+              "type": "youtube"
+            },
+            {
+              "name": "Certification app",
+              "url": "io.github.devsteamit.clfc02",
+              "type": "application"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Professional",
+      "exams": [
+        {
+          "title": "SAP-C02 Exam",
+          "description": "AWS Certified Solutions Architect",
+          "imageUrl": "https://devsteamit.github.io/data/v2/available-exams/img/sapc02.png",
+          "published": "2025-10-20",
+          "color": "#028296",
+          "description": "Prepare and learn AWS certification many domains",
+          "resources": [
+            {
+              "name": "Udemy",
+              "url": "http://fsafasf.com",
+              "type": "online-course"
+            },
+            {
+              "name": "Article",
+              "url": "http://fsafasf.com",
+              "type": "text"
+            },
+            {
+              "name": "Video content",
+              "url": "https://fsafasf.com",
+              "type": "youtube"
+            },
+            {
+              "name": "Certification app",
+              "url": "io.github.devsteamit.sapc02",
+              "type": "application"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
