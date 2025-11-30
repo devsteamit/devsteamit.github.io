@@ -66,6 +66,10 @@
       ]
     },
     {
+      "level": "Associate",
+      "exams": []
+    },
+    {
       "level": "Professional",
       "exams": [
         {
@@ -99,6 +103,10 @@
           ]
         }
       ]
+    },
+    {
+      "level": "Specialty",
+      "exams": []
     }
   ]
 }
