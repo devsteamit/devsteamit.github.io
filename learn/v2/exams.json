@@ -5,31 +5,55 @@
       "exams": [
         {
           "title": "AIF-C01 Exam",
-          "description": "AWS Certified AI Practitioner",
-          "imageUrl": "https://devsteamit.github.io/data/v2/available-exams/img/aifc01.png",
           "published": "2025-10-20",
           "color": "#384350",
-          "description": "Prepare and learn AWS certification many domains",
+          "description": "Prepare and learn AWS certification many domains this is amazing certification to learn BedRock AI, serverless services",
           "resources": [
             {
-              "name": "Udemy",
-              "url": "http://fsafasf.com",
-              "type": "online-course"
+              "type": "docs",
+              "list": [
+              ]
             },
             {
-              "name": "Article",
-              "url": "http://fsafasf.com",
-              "type": "text"
+              "type": "youtube",
+              "list": [
+                {
+                  "name": "Video content",
+                  "url": "https://www.youtube.com/watch?v=1E5zIJCLHfI",
+                  "type": "youtube"
+                }
+              ]
             },
             {
-              "name": "Video content",
-              "url": "https://fsafasf.com",
-              "type": "youtube"
+              "type": "articles",
+              "list": [
+                {
+                  "name": "Article",
+                  "url": "https://google.com"
+                }
+              ]
             },
             {
-              "name": "Certification app",
-              "url": "io.github.devsteamit.aifc01",
-              "type": "application"
+              "type": "online-course",
+              "list": [
+                {
+                  "name": "Udemy",
+                  "url": "http://fsafasf.com"
+                },
+                {
+                  "name": "Builders",
+                  "url": "http://fsafasf.com"
+                }
+              ]
+            },
+            {
+              "type": "application",
+              "list": [
+                {
+                  "name": "AWS Certified AI Practitioner",
+                  "url": "io.github.devsteamit.aifc01"
+                }
+              ]
             }
           ]
         },
