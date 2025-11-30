@@ -59,7 +59,6 @@
         },
         {
           "title": "CLF-CO2 Exam",
-          "description": "AWS Certified Cloud Practitioner",
           "imageUrl": "https://devsteamit.github.io/data/v2/available-exams/img/clfc02.png",
           "published": "2025-10-20",
           "color": "#384350",
