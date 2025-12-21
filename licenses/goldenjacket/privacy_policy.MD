@@ -1,10 +1,11 @@
 ## Privacy Policy
 
-**Effective date:** 2025-11-15
+**Effective date:** 2025-12-21
 
 ## 1. Introduction
 
-Welcome to Certification preparation application (the “App”).
+Welcome to Golden Jacket preparation application (the “App”).
+
 This Privacy Policy explains how we treat your data when you use the App. Your use of the App means you accept this Policy.
 
 App includes free content provided for learning without subscription in a limited trial mode. Applying subscription allows access to much wider content compared to free version. 
