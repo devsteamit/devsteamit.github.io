@@ -1,0 +1,134 @@
+{
+  "levels": [
+    {
+      "level": "Foundational",
+      "exams": [
+        {
+          "title": "AIF-C01 Exam",
+          "published": "2025-10-20",
+          "color": "#384350",
+          "description": "Prepare and learn AWS certification many domains this is amazing certification to learn BedRock AI, serverless services",
+          "resources": [
+            {
+              "type": "docs",
+              "list": [
+              ]
+            },
+            {
+              "type": "youtube",
+              "list": [
+                {
+                  "name": "Accelerating value creation with AI Agents",
+                  "url": "https://www.youtube.com/watch?v=1E5zIJCLHfI",
+                  "type": "youtube"
+                }
+              ]
+            },
+            {
+              "type": "articles",
+              "list": [
+                {
+                  "name": "DynamoDB is updating the index",
+                  "url": "https://google.com"
+                },
+                {
+                  "name": "DynamoDB is updating the index 2",
+                  "url": "https://google.com"
+                }
+              ]
+            },
+            {
+              "type": "online-course",
+              "list": [
+                {
+                  "name": "Udemy Marek 1",
+                  "url": "http://fsafasf.com"
+                },
+                {
+                  "name": "Builders: get the data",
+                  "url": "http://fsafasf.com"
+                }
+              ]
+            },
+            {
+              "type": "application",
+              "list": [
+                {
+                  "name": "AWS Certified AI Practitioner",
+                  "url": "io.github.devsteamit.aifc01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CLF-CO2 Exam",
+          "imageUrl": "https://devsteamit.github.io/data/v2/available-exams/img/clfc02.png",
+          "published": "2025-10-20",
+          "color": "#384350",
+          "description": "Prepare and learn AWS certification many domains",
+          "resources": [
+            {
+              "type": "docs",
+              "list": [
+              ]
+            },
+            {
+              "type": "youtube",
+              "list": [
+                {
+                  "name": "Video content",
+                  "url": "https://www.youtube.com/watch?v=1E5zIJCLHfI",
+                  "type": "youtube"
+                }
+              ]
+            },
+            {
+              "type": "articles",
+              "list": [
+                {
+                  "name": "Article",
+                  "url": "https://google.com"
+                }
+              ]
+            },
+            {
+              "type": "online-course",
+              "list": [
+                {
+                  "name": "Udemy",
+                  "url": "http://fsafasf.com"
+                },
+                {
+                  "name": "Builders",
+                  "url": "http://fsafasf.com"
+                }
+              ]
+            },
+            {
+              "type": "application",
+              "list": [
+                {
+                  "name": "AWS Certified Cloud Practitioner",
+                  "url": "io.github.devsteamit.clfc02"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Associate",
+      "exams": []
+    },
+    {
+      "level": "Professional",
+      "exams": []
+    },
+    {
+      "level": "Specialty",
+      "exams": []
+    }
+  ]
+}
