@@ -29,6 +29,36 @@
       "package": "io.github.devsteamit.deac01",
       "flavor": "deac01",
       "color": "#384350"
+    },
+    {
+      "title": "MLA-C01 Exam",
+      "description": "AWS ML Engineer",
+      "level": "Associate",
+      "imageUrl": "https://devsteamit.github.io/data/v2/available-exams/img/mlac01.png",
+      "published": "2026-02-04",
+      "package": "io.github.devsteamit.mlac01",
+      "flavor": "mlac01",
+      "color": "#384350"
+    },
+    {
+      "title": "SAA-C03 Exam",
+      "description": "AWS Solutions Architect",
+      "level": "Associate",
+      "imageUrl": "https://devsteamit.github.io/data/v2/available-exams/img/saac03.png",
+      "published": "2026-02-04",
+      "package": "io.github.devsteamit.saac03",
+      "flavor": "saac03",
+      "color": "#384350"
+    },
+    {
+      "title": "DVA-C02 Exam",
+      "description": "AWS Developer",
+      "level": "Associate",
+      "imageUrl": "https://devsteamit.github.io/data/v2/available-exams/img/dvac02.png",
+      "published": "2026-02-04",
+      "package": "io.github.devsteamit.dvac02",
+      "flavor": "dvac02",
+      "color": "#384350"
     }
   ],
   "published": "2025-01-04",
