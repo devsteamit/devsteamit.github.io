@@ -1,6 +1,16 @@
 {
   "exams": [
     {
+      "title":"AIF-C01 Exam",
+      "description":"AWS AI Practitioner",
+      "level": "Foundational",
+      "imageUrl":"https://devsteamit.github.io/data/v2/available-exams/img/aifc01.png",
+      "published":"2026-20-08",
+      "package":"io.github.devsteamit.aifc01",
+      "flavor":"aifc01",
+      "color":  "#384350"
+    },
+    {
       "title": "CLF-C02 Exam",
       "description": "AWS Cloud Practitioner",
       "level": "Foundational",
@@ -78,6 +88,16 @@
       "published": "2026-02-06",
       "package": "io.github.devsteamit.scsc03",
       "flavor": "scsc03",
+      "color": "#384350"
+    },
+    {
+      "title": "MLS-C01 Exam",
+      "description": "AWS Machine Learning",
+      "level": "Specialty",
+      "imageUrl": "https://devsteamit.github.io/data/v2/available-exams/img/mlsc01.png",
+      "published": "2026-02-08",
+      "package": "io.github.devsteamit.mlsc01",
+      "flavor": "mlsc01",
       "color": "#384350"
     }
   ],
