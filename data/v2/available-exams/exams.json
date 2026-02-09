@@ -8,7 +8,8 @@
       "published":"2026-20-08",
       "package":"io.github.devsteamit.aifc01",
       "flavor":"aifc01",
-      "color":  "#384350"
+      "color":  "#384350",
+      "size": 262
     },
     {
       "title": "CLF-C02 Exam",
@@ -18,7 +19,8 @@
       "published": "2026-02-04",
       "package": "io.github.devsteamit.clfc02",
       "flavor": "clfc02",
-      "color": "#384350"
+      "color": "#384350",
+      "size": 985
     },
     {
       "title": "DEA-C01 Exam",
@@ -28,7 +30,8 @@
       "published": "2026-02-04",
       "package": "io.github.devsteamit.deac01",
       "flavor": "deac01",
-      "color": "#384350"
+      "color": "#384350",
+      "size": 370
     },
     {
       "title": "MLA-C01 Exam",
@@ -38,7 +41,8 @@
       "published": "2026-02-04",
       "package": "io.github.devsteamit.mlac01",
       "flavor": "mlac01",
-      "color": "#384350"
+      "color": "#384350",
+      "size": 103
     },
     {
       "title": "SAA-C03 Exam",
@@ -48,7 +52,8 @@
       "published": "2026-02-04",
       "package": "io.github.devsteamit.saac03",
       "flavor": "saac03",
-      "color": "#384350"
+      "color": "#384350",
+      "size": 790
     },
     {
       "title": "DVA-C02 Exam",
@@ -58,7 +63,8 @@
       "published": "2026-02-04",
       "package": "io.github.devsteamit.dvac02",
       "flavor": "dvac02",
-      "color": "#384350"
+      "color": "#384350",
+      "size": 790
     },
     {
       "title": "DOP-C02 Exam",
@@ -68,7 +74,8 @@
       "published": "2026-02-06",
       "package": "io.github.devsteamit.dopc02",
       "flavor": "dopc02",
-      "color": "#384350"
+      "color": "#384350",
+      "size": 250
     },
     {
       "title": "ANS-C01 Exam",
@@ -78,7 +85,8 @@
       "published": "2026-02-06",
       "package": "io.github.devsteamit.ansc01",
       "flavor": "ansc01",
-      "color": "#384350"
+      "color": "#384350",
+      "size": 550
     },
     {
       "title": "SCS-C03 Exam",
@@ -88,7 +96,8 @@
       "published": "2026-02-06",
       "package": "io.github.devsteamit.scsc03",
       "flavor": "scsc03",
-      "color": "#384350"
+      "color": "#384350",
+      "size": 425
     },
     {
       "title": "MLS-C01 Exam",
@@ -98,7 +107,8 @@
       "published": "2026-02-08",
       "package": "io.github.devsteamit.mlsc01",
       "flavor": "mlsc01",
-      "color": "#384350"
+      "color": "#384350",
+      "size": 260
     }
   ],
   "published": "2025-01-04",
