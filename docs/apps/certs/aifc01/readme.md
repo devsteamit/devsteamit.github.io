@@ -32,7 +32,7 @@ The app contains practice questions designed to simulate the real exam experienc
 
 ![Screenshot3.jpg](screenshots/Screenshot3.jpg)
 
-## Learning Section with all questions 
+## Learning Section with all questions
 
 ![Screenshot4.jpg](screenshots/Screenshot4.jpg)
 
@@ -68,6 +68,6 @@ The app contains practice questions designed to simulate the real exam experienc
 
 Common instructions:
 
-- [How to Use the App](../../shared/how-to-use.md)
-- [Study Mode](../../shared/study-mode.md)
-- [Quiz Mode](../../shared/quiz-mode.md)
+- [How to Use the App](../shared/how-to-use.md)
+- [Study Mode](../shared/study-mode.md)
+- [Quiz Mode](../shared/quiz-mode.md)
