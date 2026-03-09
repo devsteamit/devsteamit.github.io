@@ -35,8 +35,10 @@ Each question contains multiple answer options.
 To answer a question:
 
 1. Select one or more answers
-2. Tap **Submit**
-3. The app will show whether the answer is correct
+2. **Swipe** left/right to the next/prev question
+3. At the end of exam click **Finish**
+
+During exam, you can track you timing and progress of question number.
 
 Explanations are shown after submitting.
 
@@ -49,18 +51,10 @@ You can navigate between questions using:
 • **Next** – move to the next question  
 • **Previous** – review the previous question
 
----
-
-# Bookmarking Questions
-
-You can bookmark difficult questions.
-
-To bookmark:
-
-1. Tap the **Bookmark icon**
-2. The question will be saved in the **Bookmarks section**
+Or use screen finger swipe **left/right**.
 
 ---
+
 
 # Viewing Statistics
 
@@ -86,20 +80,15 @@ Features:
 
 ---
 
-# Study Mode
+# Learning Mode
 
-Study Mode allows you to learn without time pressure.
+Learning Mode allows you to learn without time pressure.
 
 Features:
 
 • Immediate answer feedback  
 • Detailed explanations  
 • Ability to review questions
+• Colored hints **green/red** when clicked **correct/wrong** answer
 
 ---
-
-# Offline Usage
-
-The app works **fully offline** after installation.
-
-No internet connection is required to practice questions.
