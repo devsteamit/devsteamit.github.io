@@ -11,20 +11,17 @@ This application helps you prepare for AWS certification exams by practicing que
 The application consists of several main sections:
 
 • Home screen  
-• Study mode  
+• Learning mode  
 • Exam simulation  
 • Statistics  
 • Settings
 
 ---
 
-# Starting Practice
+# Starting Exam
 
-1. Open the app
-2. Select **Start Practice**
-3. Choose the desired mode:
-    - Study Mode
-    - Exam Mode
+1. Open the app, navigate to **Results** bottom tab
+2. Select **Start **
 
 ---
 
