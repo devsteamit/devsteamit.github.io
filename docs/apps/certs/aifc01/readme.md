@@ -6,7 +6,7 @@ This application helps you prepare for the **AWS Certified AI Practitioner (AIF-
 
 The app contains practice questions designed to simulate the real exam experience.
 
----
+--
 
 # Key Features
 
