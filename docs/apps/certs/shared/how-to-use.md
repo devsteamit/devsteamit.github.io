@@ -1,6 +1,6 @@
 # How to Use the App
 
-![Header](../aifc01/screenshots/featured_graphics.png)
+![Header](../aifc01/screens/featured_graphics.png)
 
 This application helps you prepare for AWS certification exams by practicing questions similar to those found in the real exam.
 
