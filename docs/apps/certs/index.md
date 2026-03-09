@@ -20,7 +20,7 @@ Each app focuses on a specific AWS certification.
 | DevOps Engineer - Professional        | [DOP-C02](dopc02) |
 | Machine Learning - Specialty          | [MLS-C01](mlsc01) |
 | Advanced Networking - Specialty       | [ANS-C01](ansc01) |
-| Security - Specialty                  | [SCS-C02](scsc02) |
+| Security - Specialty                  | [SCS-C03](scsc03) |
 
 ---
 
