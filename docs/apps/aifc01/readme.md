@@ -1,8 +1,8 @@
-# AWS Certified Cloud Practitioner Practice App
+# AWS Certified AI Practitioner Practice App
 
 ![App Header](screenshots/featured_graphics.png)
 
-This application helps you prepare for the **AWS Certified Cloud Practitioner (CLF-C02)** certification exam.
+This application helps you prepare for the **AWS Certified AI Practitioner (AIF-C01)** certification exam.
 
 The app contains practice questions designed to simulate the real exam experience.
 

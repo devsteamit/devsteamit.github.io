@@ -8,13 +8,19 @@ Each app focuses on a specific AWS certification.
 
 # Available Applications
 
-| Certification                     | Documentation |
-|-----------------------------------|---------------|
-| AWS Cloud Practitioner            | apps/aws-clf  |
-| AWS AI Practitioner               | apps/aidc01   |
-| AWS Solutions Architect Associate | apps/aws-saa  |
-| AWS Developer Associate           | apps/aws-dva  |
-| AWS SysOps Administrator          | apps/aws-soa  |
+| Certification                         | Documentation          |
+|---------------------------------------|------------------------|
+| AI - Practitioner                     | [AIF-C01](apps/aifc01) |
+| Cloud - Practitioner                  | [CLF-C02](apps/clfc02) |
+| Data Engineer - Associate             | [DEA-C01](apps/deac01) |
+| Machine Learning Engineer - Associate | [MLA-C01](apps/mlac01) |
+| Solutions Architect - Associate       | [SAA-C03](apps/saac03) |
+| Developer - Associate                 | [DVA-C02](apps/dvac02) |
+| Solutions Architect - Professional    | [SAP-C02](apps/sapc02) |
+| DevOps Engineer - Professional        | [DOP-C02](apps/dopc02) |
+| Machine Learning - Specialty          | [MLS-C01](apps/mlsc01) |
+| Advanced Networking - Specialty       | [ANS-C01](apps/ansc01) |
+| Security - Specialty                  | [SCS-C02](apps/scsc02) |
 
 ---
 
