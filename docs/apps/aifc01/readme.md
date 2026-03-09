@@ -20,35 +20,47 @@ The app contains practice questions designed to simulate the real exam experienc
 
 # Screenshots
 
-## Home Screen
+## Motivation Quotes Splash Screen
 
-![Home](screenshots/Screenshot1.png)
+![Screenshot1.jpg](screenshots/Screenshot1.jpg)
 
-## Question Screen
+## Main Screen
 
-![Question](screenshots/Screenshot2.png)
+![Screenshot2.jpg](screenshots/Screenshot2.jpg)
 
-## Exam Results
+## Share application with community (QR Code)
 
-![Results](screenshots/Screenshot3.png)
+![Screenshot3.jpg](screenshots/Screenshot3.jpg)
 
-## Statistics
+## Learning Section with all questions 
 
-![Statistics](screenshots/Screenshot4.png)
+![Screenshot4.jpg](screenshots/Screenshot4.jpg)
 
-![Statistics](screenshots/Screenshot5.png)
+## Learning Mode with highlights of correct/wrong selection
 
-![Statistics](screenshots/Screenshot6.png)
+![Screenshot5.jpg](screenshots/Screenshot5.jpg)
 
-![Statistics](screenshots/Screenshot7.png)
+## Explanation Popup
 
-![Statistics](screenshots/Screenshot8.png)
+![Screenshot6.jpg](screenshots/Screenshot6.jpg)
 
-![Statistics](screenshots/Screenshot9.png)
+## Start Exam
 
-![Statistics](screenshots/Screenshot10.png)
+![Screenshot7.jpg](screenshots/Screenshot7.jpg)
 
-![Statistics](screenshots/Screenshot11.png)
+## Exam Mode
+
+![Screenshot8.jpg](screenshots/Screenshot8.jpg)
+
+## Exam Results on Finish
+
+![Screenshot9.jpg](screenshots/Screenshot9.jpg)
+
+## Statistics of sessions
+
+![Screenshot10.jpg](screenshots/Screenshot10.jpg)
+
+![Screenshot11.jpg](screenshots/Screenshot11.jpg)
 
 ---
 
