@@ -69,5 +69,3 @@ The app contains practice questions designed to simulate the real exam experienc
 Common instructions:
 
 - [How to Use the App](../shared/how-to-use.md)
-- [Study Mode](../shared/study-mode.md)
-- [Quiz Mode](../shared/quiz-mode.md)
