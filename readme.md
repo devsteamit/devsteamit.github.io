@@ -1,7 +1,3 @@
-Welcome to devs team it !
-
----
-
-Check our latest applications:
+Latest applications:
 
 - [Prepare for AWS Certifications](docs/apps/certs/index.md)
