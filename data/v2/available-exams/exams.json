@@ -45,6 +45,17 @@
       "size": 103
     },
     {
+      "title": "SOA-C03 Exam",
+      "description": "AWS CloudOps Engineer",
+      "level": "Associate",
+      "imageUrl": "https://devsteamit.github.io/data/v2/available-exams/img/soac03.png",
+      "published": "2026-05-06",
+      "package": "io.github.devsteamit.soac03",
+      "flavor": "soac03",
+      "color": "#384350",
+      "size": 790
+    },
+    {
       "title": "SAA-C03 Exam",
       "description": "AWS Solutions Architect",
       "level": "Associate",
