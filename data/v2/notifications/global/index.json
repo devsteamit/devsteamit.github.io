@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-09T10:00:00Z",
+  "notifications": [
+    {
+      "id": "welcome",
+      "hash": "0CFCDA38-5F9D-4059-8F97-B25D63005D0F",
+      "type": "warning",
+      "date": "2026-05-09T10:00:00Z",
+      "title": "We are working on New Features",
+      "message": "Configurable different exam strategies soon will be added. Check latest Hybernate feature - when in exam mode you can not only switch between apps and back to resume exam, but also exit application and when back resume exam if time has not expired",
+      "min": 100,
+      "max": 425
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-09T10:00:00Z",
+  "notifications": [
+    {
+      "id": "welcome",
+      "hash": "404FAA94-3BDD-4E68-A152-007ED9242C67",
+      "type": "warning",
+      "date": "2026-05-09T10:00:00Z",
+      "title": "AIP",
+      "message": "AIP message",
+      "min": 100,
+      "max": 425
+    }
+  ]
+}

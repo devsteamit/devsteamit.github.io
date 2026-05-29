@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-05-08T09:57:13.685663Z",
+  "combinedHash": "343c71adbefc76b4d370c0ac33f97eb75a41852573be07ab64dc8f363c6de01f",
+  "files": [
+    {
+      "path": "data/v2/clfc02/questions_dump.json.enc",
+      "size": 1524720,
+      "sha256": "2445aaffe698ee66474c5485c03f81ff21132653002f15885804b650daff14f0"
+    },
+    {
+      "path": "data/v2/clfc02/answers_dump.json.enc",
+      "size": 171712,
+      "sha256": "d2ef94dfceebfe779600acd9a6a435f4c595551eefc0d366b5ee4484523b9472"
+    },
+    {
+      "path": "data/v2/clfc02/domains_dump.json.enc",
+      "size": 160,
+      "sha256": "3f7c6ac1e1ecf2478a5f9a8491f8d69f8e3207eee07cf71a20d49fdda5c5ade4"
+    }
+  ]
+}

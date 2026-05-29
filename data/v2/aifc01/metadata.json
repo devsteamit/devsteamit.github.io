@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-05-18T10:12:42.716149Z",
+  "combinedHash": "b0a84b13aeed7ebd6cbec2611c487f74db88b7ef523f81cf87534d4c1b3f21e7",
+  "files": [
+    {
+      "path": "data/v2/aifc01/questions_dump.json.enc",
+      "size": 394256,
+      "sha256": "3fb2c1846a2e3a539e8134eb3a754b42e9061971c7cc3b0d8b6950efb97f287b"
+    },
+    {
+      "path": "data/v2/aifc01/answers_dump.json.enc",
+      "size": 73520,
+      "sha256": "208d5b43ef75cf82381494d27baf87f40822c9cb42a6f0d1af0abd99f56b2b1c"
+    },
+    {
+      "path": "data/v2/aifc01/domains_dump.json.enc",
+      "size": 208,
+      "sha256": "9069bf5ba30d8e53ab3565609258a44acd0bd61e7d178265cbb0f1fa04efd8b7"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-05-10T04:14:26.136675Z",
+  "combinedHash": "07210433068b43bc47b0229d776d6471c80d6ec30371e4e5dbfd8238e0e414f1",
+  "files": [
+    {
+      "path": "data/v2/saac03/questions_dump.json.enc",
+      "size": 1812176,
+      "sha256": "16aa4febcd6ba9bbca054a25437bb179f7d48b908389b7605ea52a01f98d08ab"
+    },
+    {
+      "path": "data/v2/saac03/answers_dump.json.enc",
+      "size": 329104,
+      "sha256": "b1a22d1a309d05f3ce84008fde4d8eb1f3aef48d01178725f1c30476af44a314"
+    },
+    {
+      "path": "data/v2/saac03/domains_dump.json.enc",
+      "size": 144,
+      "sha256": "a9221b93a5f72637a6db08f5944b7254b623a7ac87a67ebcfcba8fd68a414aaa"
+    }
+  ]
+}

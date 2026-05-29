@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-05-10T04:21:26.923807Z",
+  "combinedHash": "3fbf4a15586d7a00b0a51f1adc4d4711b1e5c8099a8cbf6827b9eb984c4ef300",
+  "files": [
+    {
+      "path": "data/v2/mlsc01/questions_dump.json.enc",
+      "size": 546400,
+      "sha256": "bd0b87986d0b13b512825d09a4476a37213d595500c892e2d5c7921460516882"
+    },
+    {
+      "path": "data/v2/mlsc01/answers_dump.json.enc",
+      "size": 76704,
+      "sha256": "fc0dacb48995bf4a0726ca98511befa78979d1fdea712f30d04d0e199f38150b"
+    },
+    {
+      "path": "data/v2/mlsc01/domains_dump.json.enc",
+      "size": 160,
+      "sha256": "a91bf0f9e2fd147c10703406ff5de0bf37b74d467a65db0c415d841fd7f040a2"
+    }
+  ]
+}
