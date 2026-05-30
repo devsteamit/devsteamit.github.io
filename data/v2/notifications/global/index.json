@@ -8,7 +8,8 @@
       "type": "warning",
       "date": "2026-05-29T10:00:00Z",
       "title": "We are working on New Features",
-      "message": "Configurable exam strategies will be added soon.\\nNew Hibernate feature is added - now if exam is activesession, when close/open app you continue progress from the same state.",
+      "message": "Configurable exam strategies will be added soon. New Hibernate feature is added - now if exam is in active session, when closing/opening app you will continue progress from the 
+same state.",
       "min": 100
     }
   ]
