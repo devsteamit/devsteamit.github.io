@@ -11,6 +11,16 @@
       "message": "Configurable exam strategies will be added soon.
 Hibernate feature is live - now if exam is in active session, when closing/opening app you will continue progress from the same state.",
       "min": 100
+    },
+{
+      "id": "g2",
+      "hash": "0CFCDA38-5F9D-4059-8F97-B25D63005D03",
+      "type": "warning",
+      "date": "2026-04-20T10:00:00Z",
+      "title": "Should not show",
+      "message": "Configurable exam strategies will be added soon.
+Hibernate feature is live - now if exam is in active session, when closing/opening app you will continue progress from the same state.",
+      "min": 100
     }
   ]
 }
