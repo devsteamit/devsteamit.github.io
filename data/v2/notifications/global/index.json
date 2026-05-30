@@ -4,12 +4,12 @@
   "notifications": [
     {
       "id": "g1",
-      "hash": "0CFCDA38-5F9D-4059-8F97-B25D63005D02",
+      "hash": "0CFCDA38-5F9D-4059-8F97-B25D63005D0X",
       "type": "warning",
       "date": "2026-05-29T10:00:00Z",
       "title": "We are working on New Features",
-      "message": "Configurable exam strategies will be added soon. New Hibernate feature is added - now if exam is in active session, when closing/opening app you will continue progress from the 
-same state.",
+      "message": "Configurable exam strategies will be added soon.
+Hibernate feature is live - now if exam is in active session, when closing/opening app you will continue progress from the same state.",
       "min": 100
     }
   ]
