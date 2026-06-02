@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-30T06:25:47.755221Z",
-  "combinedHash": "dfcac00100037b133b6f033b327f3400345258f4fb716db90e2700a5ad1ceea6",
+  "generatedAt": "2026-06-02T17:27:30.432756Z",
+  "combinedHash": "4b449d0358bde6db764342e18f07ac7b113577b6b415a10c8add3a542e134e23",
   "files": [
     {
       "path": "data/v2/sapc02/questions_dump.json.enc",
-      "size": 1181536,
-      "sha256": "8bb203bb76cb7200dce087829947df9a8b5495e3317f46814f2b3cd492d571fb"
+      "size": 1182080,
+      "sha256": "28b4942ad0e389d05cc74a893d8f9fff5f12ad22cbd9436bf4ee4ac3770e61ef"
     },
     {
       "path": "data/v2/sapc02/answers_dump.json.enc",
