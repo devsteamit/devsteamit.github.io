@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-02T17:27:30.432756Z",
-  "combinedHash": "4b449d0358bde6db764342e18f07ac7b113577b6b415a10c8add3a542e134e23",
+  "generatedAt": "2026-06-04T05:34:06.816304Z",
+  "combinedHash": "67f1e4069190d5b72bc0ee83b01ee0b5ed4d8ef8e8038a64cccdaddbf09831a5",
   "files": [
     {
       "path": "data/v2/sapc02/questions_dump.json.enc",
-      "size": 1182080,
-      "sha256": "28b4942ad0e389d05cc74a893d8f9fff5f12ad22cbd9436bf4ee4ac3770e61ef"
+      "size": 1189632,
+      "sha256": "93c24360f8925341079570cdc6f174d4e240597610e4396b7af87e44298b978e"
     },
     {
       "path": "data/v2/sapc02/answers_dump.json.enc",
-      "size": 307776,
-      "sha256": "47d4c14afd72297efbcfa4f7ddba4cf5d78260cba96de0bb5cb2d21866db825d"
+      "size": 307760,
+      "sha256": "3759dd503810c7c17d0123ee747075363dd594fdc401c208a41f8a0873f49fad"
     },
     {
       "path": "data/v2/sapc02/domains_dump.json.enc",
