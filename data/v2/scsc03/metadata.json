@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-30T06:25:47.014224Z",
-  "combinedHash": "066529526a8c2c1b0d7ab31c5371a748cb44ac9226f41bead041f8d600ed8d8e",
+  "generatedAt": "2026-06-06T16:55:22.290847Z",
+  "combinedHash": "4130e21712090c90d3acd0c218e2260ccf578e99273afd8c09ad8386f5bd74ee",
   "files": [
     {
       "path": "data/v2/scsc03/questions_dump.json.enc",
-      "size": 857344,
-      "sha256": "e4da741c67541211495b257d936334d4ae213fd91f816bc6ac0c4f01e03b0b7f"
+      "size": 857984,
+      "sha256": "90fb764a518af3abc6d3fcffc9123fa62cddb1be9fe33f5a69e9295a0251107c"
     },
     {
       "path": "data/v2/scsc03/answers_dump.json.enc",
