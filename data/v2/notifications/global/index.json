@@ -4,12 +4,13 @@
   "notifications": [
     {
       "id": "g1",
-      "hash": "0CFCDA38-5F9D-4059-8F97-B25D63005D0X",
+      "hash": "0CFCDA38-5F9D-4059-8F97-B25D63005D22",
       "type": "warning",
       "date": "2026-05-29T10:00:00Z",
-      "title": "We are working on New Features",
-      "message": "Configurable exam strategies will be added soon.
-Hibernate feature is live - now if exam is in active session, when closing/opening app you will continue progress from the same state.",
+      "title": "New Features",
+      "message": "Exam strategies are available.
+Random, Domain specific, Repeat & Progress exam strategies help you more effectively prepare for exam session.
+Let us know if any additional strategies are needed.",
       "min": 100
     },
 {
