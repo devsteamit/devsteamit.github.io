@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T10:00:00Z",
+  "generatedAt": "2026-06-22T10:00:00Z",
   "notifications": [
     {
       "id": "g1",
       "hash": "0CFCDA38-5F9D-4059-8F97-B25D63005D22",
       "type": "warning",
-      "date": "2026-05-29T10:00:00Z",
+      "date": "2026-06-22T10:00:00Z",
       "title": "New Features",
       "message": "Exam strategies are available.
 Random, Domain specific, Repeat & Progress exam strategies help you more effectively prepare for exam session.
