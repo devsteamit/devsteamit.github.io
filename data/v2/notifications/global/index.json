@@ -3,14 +3,14 @@
   "generatedAt": "2026-06-22T10:00:00Z",
   "notifications": [
     {
-      "id": "g1",
-      "hash": "0CFCDA38-5F9D-4059-8F97-B25D63005D22",
+      "id": "g3",
+      "hash": "0CFCDA38-5F9D-4059-8F97-B25D63005D33",
       "type": "warning",
-      "date": "2026-06-22T10:00:00Z",
-      "title": "New Features",
-      "message": "Exam strategies are available.
-Random, Domain specific, Repeat & Progress exam strategies help you more effectively prepare for exam session.
-Let us know if any additional strategies are needed.",
+      "date": "2026-07-10T10:00:00Z",
+      "title": "Upcomming Features",
+      "message": "Content Rendering for JSON IAM policies.
+On user request we are improving content rendering for JSON-based IAM policies for better UX.
+Feel free to request any additional improvements.",
       "min": 100
     },
 {
