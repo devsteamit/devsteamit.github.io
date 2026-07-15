@@ -11,7 +11,8 @@
       "message": "Content Rendering for JSON IAM policies.
 On user request we are improving content rendering for JSON-based IAM policies for better UX.
 Feel free to request any additional improvements.",
-      "min": 100
+      "min": 100,
+      "max": 428
     },
 {
       "id": "g2",
@@ -21,7 +22,8 @@ Feel free to request any additional improvements.",
       "title": "Should not show",
       "message": "Configurable exam strategies will be added soon.
 Hibernate feature is live - now if exam is in active session, when closing/opening app you will continue progress from the same state.",
-      "min": 100
+      "min": 100,
+      "max": 428
     }
   ]
 }
